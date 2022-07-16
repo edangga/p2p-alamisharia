@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>scroll_tnc</name>
+   <tag></tag>
+   <elementGuidId>56b685ab-e5e8-40d7-9d6d-b5d037b25b31</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id='scrollWrapper']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id='scrollWrapper']</value>
+      <webElementGuid>e26566c3-215f-4fe3-8f44-250edcd8352c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

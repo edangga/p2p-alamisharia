@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_error_field_name</name>
+   <tag></tag>
+   <elementGuidId>5ac2f465-879f-4bb8-8074-f18bff747651</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id='registerNamaFunder-error']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id='registerNamaFunder-error']</value>
+      <webElementGuid>c2dbb9d8-ea28-49e1-b26f-752a80697d2b</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

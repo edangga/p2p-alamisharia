@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_error_field_phone</name>
+   <tag></tag>
+   <elementGuidId>dad23f5f-82b5-4e56-9fe9-35dbf0eefb03</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id='LenderPhone-error']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id='LenderPhone-error']</value>
+      <webElementGuid>cf5ad88b-ff48-4dac-aea8-7223f397a78b</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

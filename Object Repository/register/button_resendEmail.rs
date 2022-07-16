@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_resendEmail</name>
+   <tag></tag>
+   <elementGuidId>c4057c75-be01-4876-9f40-18d1a09bcda8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id='sendEmailActivation']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id='sendEmailActivation']</value>
+      <webElementGuid>ae049513-6a51-4644-924b-6f23ceff5bc8</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

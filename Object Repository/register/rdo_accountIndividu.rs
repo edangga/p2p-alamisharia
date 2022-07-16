@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>rdo_accountIndividu</name>
+   <tag></tag>
+   <elementGuidId>23719dee-6509-4c0b-85ab-5a68eebfaa7c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[text()='Individual']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[text()='Individual']</value>
+      <webElementGuid>6e77f2c9-ce3e-4127-94f8-5528fac6008b</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

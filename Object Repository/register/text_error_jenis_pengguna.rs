@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_error_jenis_pengguna</name>
+   <tag></tag>
+   <elementGuidId>5e328fb3-7c2d-4024-bee7-54342fee4f83</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id='jenisPengguna-error']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id='jenisPengguna-error']</value>
+      <webElementGuid>6bb229ae-e2eb-457d-83d8-69675c476266</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

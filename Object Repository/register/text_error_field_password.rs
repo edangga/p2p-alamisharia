@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_error_field_password</name>
+   <tag></tag>
+   <elementGuidId>6a35a7b4-ad26-4fb7-85e6-fd54d51ebb01</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id='showPassword-error']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id='showPassword-error']</value>
+      <webElementGuid>2385b53c-6645-4d5a-901b-c416b092d3ff</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

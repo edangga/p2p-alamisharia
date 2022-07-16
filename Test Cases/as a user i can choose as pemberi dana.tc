@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>as a user i can choose as pemberi dana</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f086a8cf-31b6-41de-a3a6-62c5abdc3b02</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d9fe5d81-1cd0-4a8d-a7dc-4922e5818166</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>true</defaultValue>
+      <description></description>
+      <id>d9fe5d81-1cd0-4a8d-a7dc-4922e5818166</id>
+      <masked>false</masked>
+      <name>individualRun</name>
+   </variable>
+</TestCaseEntity>

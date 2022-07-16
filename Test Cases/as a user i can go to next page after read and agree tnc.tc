@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>as a user i can go to next page after read and agree tnc</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bfe30266-6be6-4e1e-89ce-2f4d8ed16bc7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b511131f-5e9c-4e2a-9eda-5294fe9d8407</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>true</defaultValue>
+      <description></description>
+      <id>b511131f-5e9c-4e2a-9eda-5294fe9d8407</id>
+      <masked>false</masked>
+      <name>individualRun</name>
+   </variable>
+</TestCaseEntity>

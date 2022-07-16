@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>cbk_tnc</name>
+   <tag></tag>
+   <elementGuidId>9db0a5ed-3b91-4f09-b845-b20e8e4a0a37</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id='setujuKebijakan']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id='setujuKebijakan']</value>
+      <webElementGuid>34d4faea-3d08-4b64-b2f2-a225a24789e1</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

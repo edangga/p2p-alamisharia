@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>as a user i can go to next page with filled mandatory field</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bb3ed1c5-2df4-48cf-aafb-52631d745789</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>95d7f6dc-97e7-42ac-ad22-d1993b4b76d8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>true</defaultValue>
+      <description></description>
+      <id>95d7f6dc-97e7-42ac-ad22-d1993b4b76d8</id>
+      <masked>false</masked>
+      <name>individualRun</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_error_field_email</name>
+   <tag></tag>
+   <elementGuidId>a4acbe7e-4b08-4f7b-ab21-86bd302e1e3d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id='registerEmailFunder-error']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id='registerEmailFunder-error']</value>
+      <webElementGuid>d0421765-a3eb-4a16-a3d5-47c85578efec</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

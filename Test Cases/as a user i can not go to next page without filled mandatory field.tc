@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>as a user i can not go to next page without filled mandatory field</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1b0fa79f-fcd3-42a3-abc7-b4f962a1280d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bf4a42fd-f731-4252-b5c2-366dc0b7eacc</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>true</defaultValue>
+      <description></description>
+      <id>bf4a42fd-f731-4252-b5c2-366dc0b7eacc</id>
+      <masked>false</masked>
+      <name>individualRun</name>
+   </variable>
+</TestCaseEntity>

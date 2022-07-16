@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_notofication_dashboard</name>
+   <tag></tag>
+   <elementGuidId>232e1648-e54a-4d66-87d6-2060b574023b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id='countNotification']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id='countNotification']</value>
+      <webElementGuid>78da5429-0214-4b31-a9d5-d9c3b1a6e5a3</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

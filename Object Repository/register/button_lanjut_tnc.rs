@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_lanjut_tnc</name>
+   <tag></tag>
+   <elementGuidId>6505e11d-3647-4c66-bc45-e75db091c837</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id='submitRegister2']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id='submitRegister2']</value>
+      <webElementGuid>40ec3f24-a6d2-4554-be01-532fa097ea8a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

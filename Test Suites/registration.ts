@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>registration</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>d7e3dd3c-3858-42a9-b1b1-57af817a0f6c</testSuiteGuid>
+   <testCaseLink>
+      <guid>379caf81-a23c-452b-a66a-1211777926b1</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/as a user i can go to registration by login page</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>47784f6a-4111-4112-8635-2688fad7df55</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/as a user i can choose as pemberi dana</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>d9fe5d81-1cd0-4a8d-a7dc-4922e5818166</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>4846cd71-0959-4cd8-b6a6-61b9cd7a204f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/as a user i can not go to next page without filled mandatory field</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>bf4a42fd-f731-4252-b5c2-366dc0b7eacc</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>c9ab17e0-03e2-4004-8903-71774c793d0b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/as a user i can not go to next page without filled valid format email</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>5bdc2f1d-af9d-4f1c-832c-d79462f15d4d</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>23dd753f-2744-44b2-9068-0391509fbb69</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/as a user i can go to next page with filled mandatory field</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>95d7f6dc-97e7-42ac-ad22-d1993b4b76d8</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>b7a43795-308a-464f-add4-c02fcf19a388</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/as a user i can go to next page after read and agree tnc</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>b511131f-5e9c-4e2a-9eda-5294fe9d8407</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

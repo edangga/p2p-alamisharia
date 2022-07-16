@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>as a user i can login with valid data login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5024029a-5b09-4885-bee0-ecde51684d5e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>rdo_accountInstitusi</name>
+   <tag></tag>
+   <elementGuidId>576d52eb-81e8-4f4d-8d41-3ea08643a0fc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[text()='Institusi']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[text()='Institusi']</value>
+      <webElementGuid>d1506535-38f1-478a-b4ec-1cea6d7a8b4a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
